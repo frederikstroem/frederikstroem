@@ -3,8 +3,9 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=frederikstroem&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&border_radius=20" width="400" align="right" title="Anurag's GitHub stats" alt="Anurag's GitHub stats">](https://github.com/anuraghazra/github-readme-stats)
 
 📖 **Education:** [BSc in Engineering (Software Engineering)](https://www.sdu.dk/en/uddannelse/bachelor/softwareengineering)<br>
-🎓 **University:** The University of Southern Denmark<br>
+🎓 **University:** [The University of Southern Denmark](https://www.sdu.dk/en)<br>
 🌐 **Website:** https://frederikstroem.com<br>
 💬 **Matrix:** [@frederikstroem:matrix.org](https://matrix.to/#/@frederikstroem:matrix.org)<br>
 Ⓜ️ **Mastodon:** [@frederikstroem@fosstodon.org](https://fosstodon.org/@frederikstroem)<br>
-🔐 **PGP key:** [2C2B FB7D F2FE 6B5E 3C5D  4D56 DA3D C29B 92BB 0C69](https://keys.openpgp.org/search?q=2C2BFB7DF2FE6B5E3C5D4D56DA3DC29B92BB0C69)
+🔐 **PGP key:** [9EA6 C866 165A 3A86 08BE  3568 EA2D C27E 87A4 94F2](https://gist.githubusercontent.com/frederikstroem/417eeee5a4b974b7688cbf03845d5cc4/raw/a2caa516190ae51fe37af7a019ef70ffadc511df/87A494F2.asc)
+[[Proof of ownership toot](https://fosstodon.org/@frederikstroem/107492691834831500)]
