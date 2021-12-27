@@ -5,5 +5,5 @@
 🌐 **Website:** https://frederikstroem.com<br>
 💬 **Matrix:** [@frederikstroem:matrix.org](https://matrix.to/#/@frederikstroem:matrix.org)<br>
 Ⓜ️ **Mastodon:** [@frederikstroem@fosstodon.org](https://fosstodon.org/@frederikstroem)<br>
-🔐 **PGP key:** [9EA6 C866 165A 3A86 08BE  3568 EA2D C27E 87A4 94F2](https://gist.githubusercontent.com/frederikstroem/417eeee5a4b974b7688cbf03845d5cc4/raw/a2caa516190ae51fe37af7a019ef70ffadc511df/87A494F2.asc)
+🔐 **PGP key:** [9EA6 C866 165A 3A86 08BE  3568 EA2D C27E 87A4 94F2](https://cdn.jsdelivr.net/gh/frederikstroem/frederikstroem.github.io/assets/pgp/9EA6C866165A3A8608BE3568EA2DC27E87A494F2.asc)
 [[Proof of ownership toot](https://fosstodon.org/@frederikstroem/107492691834831500)]
