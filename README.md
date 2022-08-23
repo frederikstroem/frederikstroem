@@ -9,4 +9,4 @@
 
 I'm a Software Engineering student at the University of Southern Denmark.
 
-My primary fields of interest are in Rust, machine learning, Linux, system administration, cryptography, cryptocurrencies & green technology.
+My primary fields of interest are Rust, Linux, self-hosting, cryptography, cryptocurrencies, science & green technology.
