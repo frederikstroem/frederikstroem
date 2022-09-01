@@ -7,6 +7,6 @@
 Ⓜ️ **Mastodon:** [@frederikstroem@fosstodon.org](https://fosstodon.org/@frederikstroem)<br>
 🔑 **Keyoxide:** [9ea6c866165a3a8608be3568ea2dc27e87a494f2](https://keyoxide.org/9ea6c866165a3a8608be3568ea2dc27e87a494f2)
 
-I'm a Software Engineering student at the University of Southern Denmark.
+B.Sc. in Software Engineering and currently pursuing an M.Sc. Software Engineering at The University of Southern Denmark.
 
-My primary fields of interest are Rust, Linux, self-hosting, cryptography, cryptocurrencies, science & green technology.
+I mostly do Rust, Linux, Web3, cybersecurity & self-hosting stuff.
