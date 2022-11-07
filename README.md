@@ -9,4 +9,4 @@
 
 B.Sc. in Software Engineering and currently pursuing an M.Sc. Software Engineering at The University of Southern Denmark.
 
-I mostly do Rust, Linux, Web3, cybersecurity & self-hosting stuff.
+I mostly do Rust, Linux, Web3, cybersecurity, deep learning & self-hosting stuff.
