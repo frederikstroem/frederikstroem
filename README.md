@@ -2,7 +2,7 @@
 
 [he/him] B.Sc. in Software Engineering, currently pursuing the M.Sc. at the University of Southern Denmark.
 
-[![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=flat-square&logo=github)](https://github.com/frederikstroem?tab=repositories)
-[![GitHub Gists](https://img.shields.io/badge/Public%20Gists-GitHub-blue?style=flat-square&logo=github)](https://gist.github.com/frederikstroem)
+[![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?logo=github)](https://github.com/frederikstroem?tab=repositories)
+[![GitHub Gists](https://img.shields.io/badge/Public%20Gists-GitHub-blue?logo=github)](https://gist.github.com/frederikstroem)
 
-[![Website](https://img.shields.io/badge/Website-frederikstroem.com-blue?style=flat-square&logo=firefoxbrowser)](https://frederikstroem.com/)
+[![Website](https://img.shields.io/badge/Website-frederikstroem.com-blue?logo=firefoxbrowser)](https://frederikstroem.com/)
