@@ -1,8 +1,11 @@
-[<img src="https://github-readme-stats.vercel.app/api?username=frederikstroem&show_icons=true&count_private=true&theme=aura&hide_rank=true&hide_border=true&hide_title=true&cache_seconds=3600" align="right">](#)
+[![🎓 M.Sc. in Software Engineering](https://img.shields.io/badge/%F0%9F%8E%93_M.Sc.-Software%20Engineering-%23854dba?style=flat-square)](#)
 
-M.Sc. in Software Engineering.
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+[![NixOS](https://img.shields.io/badge/NixOS-%235277C3?style=flat-square&logo=nixos&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)](#)
+[![Nushell](https://img.shields.io/badge/Nushell-%234E9A06?style=flat-square&logo=nushell&logoColor=white)](#)
 
-[![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?logo=github)](https://github.com/frederikstroem?tab=repositories)
-[![GitHub Gists](https://img.shields.io/badge/Public%20Gists-GitHub-blue?logo=github)](https://gist.github.com/frederikstroem)
+[![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=flat-square&logo=github)](https://github.com/frederikstroem?tab=repositories)
+[![GitHub Gists](https://img.shields.io/badge/Public%20Gists-GitHub-blue?style=flat-square&logo=github)](https://gist.github.com/frederikstroem)
 
-[![Website](https://img.shields.io/badge/Website-frederikstroem.com-blue?logo=firefoxbrowser)](https://frederikstroem.com/)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Website-frederikstroem.com-%23FF7139?style=flat-square)](https://frederikstroem.com/)
